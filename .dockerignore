@@ -1,0 +1,6 @@
+.git
+.next
+.husky
+scripts
+*Dockerfile*
+node_modules

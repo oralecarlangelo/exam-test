@@ -1,0 +1,25 @@
+#nprogress .bar {
+  background: cyan !important;
+  z-index: 1337;
+  height: 2px;
+}
+
+.react-toast-notifications__container {
+  z-index: 11111 !important;
+}
+
+.ql-align-justify {
+  text-align: justify;
+}
+
+.ql-align-left {
+  text-align: left;
+}
+
+.ql-align-right {
+  text-align: right;
+}
+
+.ql-align-center {
+  text-align: center;
+}
